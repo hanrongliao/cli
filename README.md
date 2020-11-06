@@ -17,7 +17,7 @@ fast-cli是一个能快速生成移动端，管理后台和大屏项目模版的
     - 大屏项目模版 `ft create screen`
 
 ## 模版
-为了增强可拓展性，脚手架项目和模版分离，模版地址：[https://github.com/templates](https://github.com/templates)
+为了增强可拓展性，脚手架项目和模版分离，模版地址：[https://github.com/hanrongliao/templates](https://github.com/hanrongliao/templates)
 
 ## 问题
 如有问题建议，欢迎提[issue](https://github.com/cli/issues)
